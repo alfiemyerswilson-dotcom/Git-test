@@ -8,8 +8,6 @@ Here's our todo:
 - [x] Make our first commit
 - [x] Fix this typo
 
-This is to test the push mechanic.
-
-Keep this change.
-
-Why is it not there
+How to fly:
+Step 1: believe
+Step 2: ...
